@@ -12,7 +12,6 @@ This repository is dedicated to practicing and mastering Data Structures, Algori
 - [Contributing](#contributing)
 - [Getting Started](#getting-started)
 - [Resources](#resources)
-- [License](#license)
 
 ## Data Structures
 
