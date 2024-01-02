@@ -25,3 +25,7 @@ This function takes in an array of numbers `nums` and a `target` number. It aims
    - Finally, the function returns the `indices` array, which holds the indices of the two numbers that sum up to the `target`.
 
 This function essentially scans through the input array and checks for pairs of numbers that add up to the target value. If found, it returns the indices of those numbers in the array.
+
+#### Resources:
+
+https://www.freecodecamp.org/news/4-methods-to-search-an-array/
