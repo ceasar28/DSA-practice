@@ -66,6 +66,8 @@ To get started:
 
 Additional resources, books, websites, and tutorials related to DSA and coding challenges can be found in the [resources section](RESOURCES.md).
 
+https://codedamn.com/problem-list/javascript-logic-building?page=1
+
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
