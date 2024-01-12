@@ -1,6 +1,6 @@
 const nums: number[] = [7, 3, 6, 2, 4, 1, 5];
 
-const selection = (nums: number[]): any => {
+const selection = (nums: number[]): number[] => {
   for (let i = 0; i < nums.length - 1; i++) {
     let minIndex = 1;
     for (let j = i + 1; j < nums.length; j++) {

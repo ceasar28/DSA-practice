@@ -13,3 +13,4 @@ var selection = function (nums) {
     return nums;
 };
 console.log(selection(nums));
+// link : https://youtube.com/shorts/GmFGZHJE0QA?si=RBoNIapamdnvACQs
